@@ -1,0 +1,4 @@
+#this is a test
+variable1 = 69
+variable2 = 420
+print variable1 + variable2
